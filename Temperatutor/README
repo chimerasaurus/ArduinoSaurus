@@ -1,0 +1,16 @@
+A LED-based temperature sensor.
+
+Files:
+.pde - Arduino code
+.png - Diagram PNG
+.fz - Fritzing diagram
+
+Hardware required:
+* (1) Arduino board (I used an Arduino Uno)
+* (1) Boradboard (I used an Adafruit Proto Shield)
+  - http://www.adafruit.com/index.php?main_page=product_info&cPath=17_21&products_id=51
+* (2) Potentiometer 
+* (2) LED (I used one blue & one red)
+* (1) TMP-102 board /TI SOT563 (I used a TMP-102 from SparkFun)
+   - http://www.sparkfun.com/products/9418 
+* (17) Connectors/wires
