@@ -63,8 +63,6 @@ void setup()
 /* Loop function */
 void loop()
 {
-  Serial.println(" ");
-
   //Read the potentiometers
   pot1Val = analogRead(POTENTIOMETER1);
   pot2Val = analogRead(POTENTIOMETER2);
@@ -147,6 +145,7 @@ void loop()
     Serial.println(blueVal);
     Serial.print("Red: ");
     Serial.println(redVal);
+    Serial.println(" ");
   }
 
   //Delay 1S until next loop
