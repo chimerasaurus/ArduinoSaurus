@@ -11,7 +11,7 @@ An LED-based temperature sensor.
 Used a red and blue LED to show a color based on the present temperature of the room. Supports configuration and customization via a set of switches.
 
 ####GlowShow####
-Library for communicating with fashionable headwear.
+Library for communicating with fashionable headwear. Includes a library with required IR timings and a sample Arduino sketch.
 
 ###License###
 See LICENSE file.
