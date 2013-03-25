@@ -1,4 +1,4 @@
-##EvilArduinoBox##
+##ArduinoSaurus##
 
 A repository for fun and interesting [Arduino](http://arduino.cc/) projects.
 
